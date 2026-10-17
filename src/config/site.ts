@@ -11,7 +11,7 @@ import type { SiteConfig } from '../types';
  */
 export const site: SiteConfig = {
   name: 'Yoga Fitness',
-  logoText: 'yogafitness',
+  logoText: 'artswork',
   tagline: 'Yoga classes, breathwork & mindful movement',
   description:
     'Yoga Fitness offers guided yoga classes, breathwork, retreats and mobility sessions for every level.',

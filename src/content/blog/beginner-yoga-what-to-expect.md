@@ -11,6 +11,8 @@ tags: [beginners, first class, studio]
 
 Walking into a yoga studio for the first time can feel intimidating. Everyone else seems to know where to put their mat, what the props are for and when to bow their head. The good news: almost everyone in the room once felt exactly the same way.
 
+intimidating: 令人胆怯的;
+
 Here is what you can expect, step by step.
 
 ## Before you arrive
